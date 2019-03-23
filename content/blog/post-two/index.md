@@ -27,10 +27,13 @@ As I mentioned above, the lion's share of my work has been on the back end for t
 
 #### Back End
 
-  - Ticket 2:
+- Ticket 2:
+    - Github: https://github.com/Lambda-School-Labs/labspt2-rate-my-diy/pull/20
+    - Trello: https://trello.com/c/SdNt0GlD/60-prisma-stitching
+  - Ticket 3:
     - Github: https://github.com/Lambda-School-Labs/labspt2-rate-my-diy/pull/22
     - Trello: https://trello.com/c/QGkDRfeY/59-nexus
-  - Ticket 3:
+  - Ticket 4:
     - Github: https://github.com/Lambda-School-Labs/labspt2-rate-my-diy/pull/26
     - Trello: https://trello.com/c/H1068N2f/61-seeding
 
