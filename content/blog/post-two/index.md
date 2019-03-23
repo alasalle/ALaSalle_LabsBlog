@@ -12,8 +12,6 @@ github contribution graph: https://github.com/Lambda-School-Labs/labspt2-rate-my
 
 github handle: https://github.com/alasalle
 
-Provide a paragraph (5-8 sentences) summarizing the work you did over the course of this sprint, including the challenges you faced, the tools you used, and your accomplishments
-
 The majority of my work during this sprint has been focused on making sure the backend will work for our intended purposes. The main challenge I faced was getting our server to provide us with working prisma mutations and queries alongside custom ones. I initially tried schema stitching and prisma binding, but replaced this with nexus-prisma, based on Julian's suggestion. That worked really well. Though, it looks like nexus doesn't yet support subscriptions, so we'll need to find a workaround for email subscriptions. I also implemented stripe.
 
 
