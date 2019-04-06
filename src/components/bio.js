@@ -38,7 +38,8 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Central Florida building useful things.
+              Written by <strong>{author}</strong> who lives and works in
+              Central Florida building useful things.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 You should follow them on Twitter
